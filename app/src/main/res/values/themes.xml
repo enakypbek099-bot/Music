@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.MoyaMuzyka" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#E9EDF3</item>
+    </style>
+</resources>
